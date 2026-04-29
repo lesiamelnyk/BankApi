@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BankApi.Tests/BankApi.Tests.csproj" Id="ffe46001-6ebb-4507-8e07-0a50c016acfa" />
+  <Project Path="BankApi/BankApi.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: bank-api
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
